@@ -1,4 +1,5 @@
-## Hi there 👋
+## Heya 👋
+Dipping my toes into coding and showcasing my journey as I go through courses and eventually personal projects
 
 <!--
 **Nivramor/Nivramor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
